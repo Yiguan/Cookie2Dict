@@ -1,4 +1,4 @@
-class CookieForm():
+class cookie2dict():
 	def __init__(self, cookie_str):
 		self.cookie_str = cookie_str
 	def ToDict(self):
