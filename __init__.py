@@ -1,1 +1,1 @@
- from Cookie2Dict import main.py
+ from Cookie2Dict.main.py import CookieForm
