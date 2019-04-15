@@ -1,1 +1,1 @@
- from Cookie2Dcit import main.py
+ from Cookie2Dict import main.py
